@@ -1,6 +1,6 @@
 # Claude 国内最新使用指南~ （支持 Claude 3.7，稳定好用~）【2025年3月更新】
 
-> 更新日期：**2025-03-14**        
+> 更新日期：**2025-03-14**         
 
 在国内轻松使用 [**Claude 中文版**](https://chat.yixiaai.com) 教程，**无需翻墙**，**支持 Claude 3.7、Claude 3.5 及中文版功能**   
 
@@ -24,7 +24,7 @@
 
 以下是我们精选的国内优质 **Claude 中文版镜像网站**，无需翻墙即可使用：
 - [chat.yixiaai.com](https://chat.yixiaai.com/) - **Claude 中文版**，支持 Claude-3.7、Claude-3.5、GPT-o1、o3及Groq-3，支持 AI绘画，扫码就能用~
-- [chat.lify.vip](https://www.yixiaai.com/) - **Claude 镜像网站**，支持 Claude-3.7、Claude-3.5、GPT-o1、o3及Groq-3，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
+- [chat.lanjing.ai](https://chat.lanjing.ai/) - **Claude 镜像网站**，支持 Claude-3.7、Claude-3.5、GPT-o1、o3及Groq-3，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
 - [guide1.lanjing.ai](https://guide1.lanjing.ai/) - **ChatGPT 镜像网站**，支持 GPT4、4o，支持AI绘画（Midjourney和Dall·E）
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4o，简单便捷~
 - [lanjing.ai](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT4、4o 支持 MJ 绘画
